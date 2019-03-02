@@ -14,7 +14,9 @@ Python 3+
 
 https://github.com/blackyau/wb.zk789.cn_spider/archive/master.zip
 
-直接在当前目录运行 run.bat 即可
+打开``` account.txt ```第一行填你的考号,第二行填你的密码
+
+然后在当前目录运行 run.bat 即可
 
 # License
 ```
@@ -30,5 +32,5 @@ as the name is changed.
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
- 0. You just DO WHAT THE FUCK YOU WANT TO.
+ 1. You just DO WHAT THE FUCK YOU WANT TO.
 ```
