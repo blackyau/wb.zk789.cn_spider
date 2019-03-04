@@ -58,8 +58,8 @@ https://github.com/blackyau/wb.zk789.cn_spider/blob/master/wb.py#L17-L18
 填写信息时请保留 ' ' 并将信息填入 ' ' 之间
 
 ```
-account  = ''    # 你的考号
-password = ''    # 你的密码
+account  = '01234567890' # 你的考号
+password = '01234567890' # 你的密码
 ocrmod   = False # True 为自动识别验证码模式，False 为手打验证码模式
 ```
 
